@@ -3,7 +3,7 @@
 // @namespace    https://tampermonkey.net/
 // @version      1.0
 // @description  Adds a toggle button to YouTube to swap audio channels (left/right)
-// @author       fxdk14
+// @author       fxdk_
 // @match        *://www.youtube.com/*
 // @grant        none
 // ==/UserScript==
